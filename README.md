@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hey I'm Atharva patil<br><br>I’m currently working on<br>Building AI/ML projects, experimenting with computer vision, and working on cool real-world applications like voice assistants and UAV systems.<br><br>I’m looking to collaborate on<br>Open-source AI/ML projects, hackathons, and any idea that blends innovation + impact.<br><br>I’m looking for help with<br>Exploring advanced deep learning techniques, MLOps/DevOps integration, and scaling AI systems.<br><br>I’m currently learning<br>Neural Networks from scratch, DevOps for ML workflows, and hands-on UAV mission planning with ArduPilot/QGroundControl.<br><br>Ask me about<br>Python, Machine Learning basics to intermediate, computer vision, or even fitness transformation journeys<br><br>Fun fact<br>    When I’m not coding, you’ll probably find me exploring random ideas that somehow become projects 😅.
+<h1>
+<p align=center>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Atharva" alt="Typing SVG" />
+</p>
+  </h1>
+I’m currently working on<br>Building AI/ML projects, experimenting with computer vision, and working on cool real-world applications like voice assistants and UAV systems.<br><br>I’m looking to collaborate on<br>Open-source AI/ML projects, hackathons, and any idea that blends innovation + impact.<br><br>I’m looking for help with<br>Exploring advanced deep learning techniques, MLOps/DevOps integration, and scaling AI systems.<br><br>I’m currently learning<br>Neural Networks from scratch, DevOps for ML workflows, and hands-on UAV mission planning with ArduPilot/QGroundControl.<br><br>Ask me about<br>Python, Machine Learning basics to intermediate, computer vision, or even fitness transformation journeys<br><br>Fun fact<br>    When I’m not coding, you’ll probably find me exploring random ideas that somehow become projects 😅.
 
 
 ## 🌐 Socials:
