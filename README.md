@@ -48,6 +48,40 @@ When I’m not coding, I’m usually busy exploring random ideas that somehow en
   </tr>
 </table>
 
+## 💻 What I’ve Worked On  
+
+<table>
+  <tr>
+    <td align="center" width="40%">
+      <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="250">
+    </td>
+
+   <td valign="top" width="60%">
+     
+- <b>Voice Assistant based on TTS</b> (04/2025 – 06/2025)  
+  Designed a **modular voice assistant in Python** integrating TTS (gTTS/pyttsx3) and system operations.  
+  Implemented **CI/CD pipelines using GitHub Actions**  
+
+- <b>Hand Sign Detection using OpenCV + TTS</b> (06/2025 – Present)  
+  Built a **real-time hand sign recognition system** leveraging OpenCV and MediaPipe to interpret hand gestures.  
+  Integrated a **Text-to-Speech module** to instantly convert recognized signs into spoken words.  
+  Added **automated testing + CI workflows**
+
+- <b>Face Recognition-Based Attendance System</b> (07/2024 – 09/2024)  
+  Developed a **real-time attendance system** using OpenCV and the face_recognition library.  
+  Preprocessed face encodings to improve accuracy, stored logs via CSV, and designed a Tkinter GUI.
+  
+- <b>Restaurant ERP System</b> (01/2025 – 03/2025)  
+  Built a **Tkinter-based ERP system** for restaurants to manage products, stock, pricing, and sales reports.  
+  Added **data analysis features** to monitor performance and generate business insights.  
+---
+<b>Currently:</b>  
+I’m also working on an **innovative project called Evoya**, pushing the boundaries of AI/ML applications 🚀 (more details coming soon).  
+
+  </td>
+  </tr>
+</table>
+
 
 
 
