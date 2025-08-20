@@ -22,7 +22,13 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      
+
+<strong>**My code works… until someone else reads it.** 👀 <br>
+<strong>**Tech stack:** Python, OpenCV, GitHub Actions… and procrastination. ⚡<br>  
+<strong>**Converting late-night coffee crashes into questionable code** ☕💻  <br>
+<strong>**Currently Googling errors faster than I write code** 🔍💻  <br>
+<strong>**Living in a love-hate relationship with** `git push --force` 🤯<br>  
+
 <strong>🔭 I’m currently working on</strong><br>
 Building <b>AI/ML projects</b>, experimenting with <b>computer vision</b>, and creating real-world applications like <b>voice assistants</b> and <b>UAV systems</b>.<br><br>
 
